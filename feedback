@@ -1,0 +1,2 @@
+11.17: Finally getting to HW4,
+I'm happy to see that you coded the random number tests in MATLAB (I think that these particular calculations are easier in MATLAB). I have no problems with the second problem. However, I am curious about the autocorrelation tests. You found that the nearest neighbors (being 1 away) fell within the acceptable range, but what about every other distance in the autocorrelation measure?? You should have a whole series of tests that fall reasonably within 0.25?
